@@ -14,29 +14,26 @@
 
 ## 🧠 About Me
 
-🎓 I'm a passionate Electronics and Communication Engineering student at **Amrita Vishwa Vidyapeetham**, driven by a desire to innovate in the semiconductor and biomedical systems domains.
+🎓 I'm an Electronics and Communication Engineering Graduate from **Amrita Vishwa Vidyapeetham, Coimbatore**, currently pursuing an internship and building my skills in Embedded Systems and PCB design. 
 
 💡 My focus areas:
-- **Biomedical instrumentation**
+- **Embedded Systems**
+- **PCB Design**
+- **Analog and Digital Circuit Design**
 - **VLSI Design & Digital Logic**
-- **Analog Circuit Design**
-- **Signal Processing & Embedded Systems**
 
 🛠️ Tools & Technologies:
 - Languages: `Verilog`, `System Verilog`, `VHDL`, `Python`, `C`
-- Simulation: `Xilinx Vivado`, `LTSpice`, `Ansys HFSS`, `Matlab`, `Modelsim`
-- Operating Systems: `ROS`, `Windows`
-
+- Design: `KiCAD`, `Xilinx Vivado`, `LTSpice`,`Modelsim`
 ---
 
 ## 🚀 Projects
 
 | 🧪 Project | 📋 Description |
 |-----------|----------------|
-| 🔉 **Hands-free sEMG speech signals based Wheelchair control** *(Ongoing)* | Developing a system using sEMG signals from facial/neck muscles to recognize silent speech, to aid multi-limb paralysis patients to control their wheelchairs. |
-| 🧠 **Priority Arbiter for Multi-Channel Bus** *(Mar 2025)* | Designed a priority-based bus arbiter using VHDL, verified on the Basys-3 FPGA. |
+| 🔉 **Hands-free sEMG speech signals based Wheelchair control** *(Mar 2026)* | Developed a system using sEMG signals from facial/neck muscles to recognize silent speech, to aid multi-limb paralysis patients to control their wheelchairs. |
+| 🧠 **Priority Arbiter for Multi-Channel Bus** *(Mar 2025)* | Designed a priority-based bus arbiter for embedded systems using VHDL, verified on the Basys-3 FPGA. 
 | 📡 **Range & Doppler Radar Optimization** *(June 2024)* | Implemented CFAR techniques in Python for target detection in FMCW radar systems. |
-| 🐁 **Autonomous Micromouse Robot** *(Oct 2024)* | Arduino-based maze-solving robot using the flood-fill algorithm with real-time IR sensing. |
 | 📶 **RF Data Transmission System** *(Mar 2025)* | Long-range wireless transmission using analog circuitry (LM358, SS9018 transistors). |
 | 🚗 **Automobile Seatbelt Detector** *(Dec 2023)* | Built a logic-based system to alert unbelted drivers, simulated using Proteus. |
 
