@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar Dubbaka</h1>
+<h1 align="center">Hello there 👋, I'm Rohit Kumar Dubbaka</h1>
 <h3 align="center">Embedded Systems | PCB Design | Hardware Electronics</h3>
 
 <p align="center">
@@ -12,25 +12,25 @@
 
 ---
 
-## 🧠 About Me
+About Me
 
-🎓 I'm an Electronics and Communication Engineering Graduate from **Amrita Vishwa Vidyapeetham, Coimbatore**, currently pursuing an internship and building my skills in Embedded Systems and PCB design. 
+I'm an Electronics and Communication Engineering Graduate from **Amrita Vishwa Vidyapeetham, Coimbatore**, currently pursuing an internship and building my skills in Embedded Systems and PCB design. 
 
-💡 My focus areas:
+My focus areas:
 - **Embedded Systems**
 - **PCB Design**
 - **Analog and Digital Circuit Design**
 - **VLSI Design & Digital Logic**
 
-🛠️ Tools & Technologies:
+Tools & Technologies:
 - Languages: `Verilog`, `System Verilog`, `VHDL`, `Python`, `C`
 - Design: `KiCAD`, `Xilinx Vivado`, `LTSpice`,`Modelsim`
 ---
 ##  Experience
 
 | Role | Company | Description |
-|-----------|----------------|
-| **Embedded Systems Intern** *(Feb 2026)* | DeltaIOT PvT Ltd | Developed a system using sEMG signals from facial/neck muscles to recognize silent | 
+|-----------|-----------|----------------|
+| **Embedded Systems Intern** *(Feb 2026)* | DeltaIOT PvT Ltd | Designing and developing propreitery PCBs for Industry IOT applications. Resposible for solution realization for industry problems statements. | 
 
 ---
 ## Projects
@@ -45,18 +45,18 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- ✅ [System Verilog Fundamentals](https://www.udemy.com/certificate/UC-25b24238-b221-426a-874c-8f043a3646df/)
-- ✅ [Python Programming – Basic to Advanced](https://login.webveda.com/share-certificate?serialno=EVGAK9SP)
-- ✅ [Embedded Systems Design - Digital Circuits](https://www.diginique.com/wp-content/uploads/DT23060337.png)
+- [System Verilog Fundamentals](https://www.udemy.com/certificate/UC-25b24238-b221-426a-874c-8f043a3646df/)
+- [Python Programming – Basic to Advanced](https://login.webveda.com/share-certificate?serialno=EVGAK9SP)
+- [Embedded Systems Design - Digital Circuits](https://www.diginique.com/wp-content/uploads/DT23060337.png)
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-- 📧 Email: [rohitdubbaka29@gmail.com](mailto:rohitdubbaka29@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/rohit-kumar-dubbaka](https://www.linkedin.com/in/rohit-kumar-dubbaka)
+- Email: [rohitdubbaka29@gmail.com](mailto:rohitdubbaka29@gmail.com)
+- LinkedIn: [linkedin.com/in/rohit-kumar-dubbaka](https://www.linkedin.com/in/rohit-kumar-dubbaka)
 
 ---
 
