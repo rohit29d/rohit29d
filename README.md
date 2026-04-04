@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Dubbaka</h1>
-<h3 align="center">VLSI-Design and Verification | Analog & Digital Design Enthusiast</h3>
+<h3 align="center">Embedded Systems | PCB Design | Hardware Electronics</h3>
 
 <p align="center">
   <img src="https://i.gifer.com/7qbG.gif" width="100" alt="Electronics gif" />
