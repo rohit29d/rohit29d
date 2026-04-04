@@ -26,16 +26,22 @@
 - Languages: `Verilog`, `System Verilog`, `VHDL`, `Python`, `C`
 - Design: `KiCAD`, `Xilinx Vivado`, `LTSpice`,`Modelsim`
 ---
+##  Experience
 
-## 🚀 Projects
-
-| 🧪 Project | 📋 Description |
+| Role | Company | Description |
 |-----------|----------------|
-| 🔉 **Hands-free sEMG speech signals based Wheelchair control** *(Mar 2026)* | Developed a system using sEMG signals from facial/neck muscles to recognize silent speech, to aid multi-limb paralysis patients to control their wheelchairs. |
-| 🧠 **Priority Arbiter for Multi-Channel Bus** *(Mar 2025)* | Designed a priority-based bus arbiter for embedded systems using VHDL, verified on the Basys-3 FPGA. 
-| 📡 **Range & Doppler Radar Optimization** *(June 2024)* | Implemented CFAR techniques in Python for target detection in FMCW radar systems. |
-| 📶 **RF Data Transmission System** *(Mar 2025)* | Long-range wireless transmission using analog circuitry (LM358, SS9018 transistors). |
-| 🚗 **Automobile Seatbelt Detector** *(Dec 2023)* | Built a logic-based system to alert unbelted drivers, simulated using Proteus. |
+| **Embedded Systems Intern** *(Feb 2026)* | DeltaIOT PvT Ltd | Developed a system using sEMG signals from facial/neck muscles to recognize silent | 
+
+---
+## Projects
+| Project | Description |
+|-----------|----------------|
+| **Hands-free sEMG speech signals based Wheelchair control** *(Mar 2026)* | Developed a system using sEMG signals from facial/neck muscles to recognize silent speech, to aid multi-limb paralysis patients to control their wheelchairs. |
+| **Analog-Front-End for sEMG signal acquisition**(Aug 2025)* | Designed a hardware design and developed a 60mm x 25mm PCB to amplify and acquire sEMG signal.|
+| **Priority Arbiter for Multi-Channel Bus** *(Mar 2025)* | Designed a priority-based bus arbiter for embedded systems using VHDL, verified on the Basys-3 FPGA. 
+| **Range & Doppler Radar Optimization** *(June 2024)* | Implemented CFAR techniques in Python for target detection in FMCW radar systems. |
+| **RF Data Transmission System** *(Mar 2025)* | Long-range wireless transmission using analog circuitry (LM358, SS9018 transistors). |
+|  **Automobile Seatbelt Detector** *(Dec 2023)* | Built a logic-based system to alert unbelted drivers, simulated using Proteus. |
 
 ---
 
