@@ -53,7 +53,7 @@ So yeah, I don't really subscribe to a single label ... but if I were to:
 
 | Project | Timeline | Domain / Stack |
 | :--- | :--- | :--- |
-| [**Hands-Free sEMG-Based Speech-Controlled Wheelchair**](https://github.com/rohit29d/Hands-Free-sEMG-based-speech-controlled-wheelchair-) | *Jun 2025 – Mar 2026* | STM32, Biosensors, TinyML, KiCad |
+| [**Hands-Free sEMG-Based Speech-Controlled Wheelchair [Final- Year Thesis]**](https://github.com/rohit29d/Hands-Free-sEMG-based-speech-controlled-wheelchair-) | *Jun 2025 – Mar 2026* | STM32, Biosensors, TinyML, KiCad |
 | [**Analog Front-End for sEMG Signal Acquisition V2**](https://github.com/rohit29d/Analog-Front-End-for-sEMG-signals-Acquisition-V2) | *Aug 2025* | Custom AFE PCB, LTspice, High CMRR |
 | [**Aeromesh — Edge AI Turbulence Detection Mesh Network**](https://github.com/rohit29d/CraftifAI_Hackathon_Aeromesh) | *Aug 2026* | ESP32, ESP-IDF, Edge AI, IMU |
 | [**Priority Arbiter for Multi-Channel Bus**] | *Dec 2024 – Mar 2025* | VHDL, Basys-3 FPGA, Vivado RTL |
