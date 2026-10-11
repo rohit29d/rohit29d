@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Rohit</h1>
+<h1 align="center">Hello , I'm Rohit</h1>
 <h3 align="center">Embedded Systems | PCB Design | Hardware Electronics</h3>
 
 <p align="center">
