@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Rohit Kumar Dubbaka</h1>
+<h1 align="center">Hello 👋, I'm Rohit</h1>
 <h3 align="center">Embedded Systems | PCB Design | Hardware Electronics</h3>
 
 <p align="center">
@@ -8,46 +8,61 @@
 <p align="center">
   <a href="mailto:rohitdubbaka29@gmail.com"><img src="https://img.shields.io/badge/Email-rohitdubbaka29@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/rohit-kumar-dubbaka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rohit--kumar--dubbaka-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://rohitkumardubbaka.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-6B1F2A?style=flat-square&logo=vercel"></a>
 </p>
 
 ---
 
-About Me
+### Who am I ?
+- My job calls me a **PCB designer, electronics hardware engineer, and the guy who runs the 3D-printer or Pick & Place machine**
+- My degree calls me an **electronics engineer**
+- My interests call me a maker ... or builder ... **an explorer**
+- My project mates used to call me **the leader of the pack**
 
-I'm an Electronics and Communication Engineering Graduate from **Amrita Vishwa Vidyapeetham, Coimbatore**, currently pursuing an internship and building my skills in Embedded Systems and PCB design. 
+So yeah, I don't really subscribe to a single label ... but if I were to:
 
-My focus areas:
-- **Embedded Systems**
-- **PCB Design**
-- **Analog and Digital Circuit Design**
-- **VLSI Design & Digital Logic**
+> **I am an Embedded Engineer with proven expertise in PCB Design and embedded systems development. A 2026 graduate in ECE from Amrita Vishwa Vidyapeetham, Coimbatore.**
 
-Tools & Technologies:
-- Languages: `Verilog`, `System Verilog`, `VHDL`, `Python`, `C`
-- Design: `KiCAD`, `Xilinx Vivado`, `LTSpice`,`Modelsim`
----
-##  Experience
-
-| Role | Company | Description |
-|-----------|-----------|----------------|
-| **Embedded Systems Intern** *(Feb 2026)* | DeltaIOT PvT Ltd | Designing and developing propreitery PCBs for Industry IOT applications. Resposible for solution realization for industry problems statements. | 
+*Check out my interactive portfolio here: [rohitkumardubbaka.vercel.app](https://rohitkumardubbaka.vercel.app/)*
 
 ---
-## Projects
-| Project | Description |
-|-----------|----------------|
-| **Hands-free sEMG speech signals based Wheelchair control** *(Mar 2026)* | Developed a system using sEMG signals from facial/neck muscles to recognize silent speech, to aid multi-limb paralysis patients to control their wheelchairs. |
-| **Analog-Front-End for sEMG signal acquisition**(Aug 2025)* | Designed a hardware design and developed a 60mm x 25mm PCB to amplify and acquire sEMG signal.|
-| **Priority Arbiter for Multi-Channel Bus** *(Mar 2025)* | Designed a priority-based bus arbiter for embedded systems using VHDL, verified on the Basys-3 FPGA. 
-| **Range & Doppler Radar Optimization** *(June 2024)* | Implemented CFAR techniques in Python for target detection in FMCW radar systems. |
-| **RF Data Transmission System** *(Mar 2025)* | Long-range wireless transmission using analog circuitry (LM358, SS9018 transistors). |
-|  **Automobile Seatbelt Detector** *(Dec 2023)* | Built a logic-based system to alert unbelted drivers, simulated using Proteus. |
+
+### My Core Technical Focus
+- **Embedded Systems & Firmware Development**
+- **PCB Design (4-Layer, Differential Pairs, High-speed signals and RF)**
+- **Analog & Mixed-Signal Circuit Design (Bio-potential AFEs)**
+- **VLSI Design, Digital Logic & FPGA Architecture**
+
+### The Tools & Technologies I can work with 
+- **Languages:** `Embedded C`, `Verilog`, `SystemVerilog`, `VHDL`, `Python`, `Bash`
+- **EDA & Hardware Simulation:** `Altium Designer`, `KiCad`, `LTspice`, `ModelSim`
+- **Firmware & Digital Design:** `STM32CubeIDE (HAL)`, `ESP-IDF`, `Xilinx Vivado (Artix-7)`
+- **Lab Equipment:** DSO, Logic Analyzer, Spectrum Analyzer, SMD Rework Stations
+
+---
+
+## Experience at a glance
+
+| Role | Organization | Focus & Impact |
+| :--- | :--- | :--- |
+| **Embedded Systems Intern** | **DeltaIOT Pvt Ltd** *(Feb 2026 – Present)* | Designed & bench-validated a compact 4-layer LTE/GPS module (80% board-area reduction), engineered a 2.5A hot-swappable power board, reverse-engineered industrial IoT nodes and many more. |
+
+---
+
+## My Brain Children 
+
+| Project | Timeline | Domain / Stack |
+| :--- | :--- | :--- |
+| [**Hands-Free sEMG-Based Speech-Controlled Wheelchair**](https://github.com/rohit29d/Hands-Free-sEMG-based-speech-controlled-wheelchair-) | *Jun 2025 – Mar 2026* | STM32, Biosensors, TinyML, KiCad |
+| [**Analog Front-End for sEMG Signal Acquisition V2**](https://github.com/rohit29d/Analog-Front-End-for-sEMG-signals-Acquisition-V2) | *Aug 2025* | Custom AFE PCB, LTspice, High CMRR |
+| [**Aeromesh — Edge AI Turbulence Detection Mesh Network**](https://github.com/rohit29d/CraftifAI_Hackathon_Aeromesh) | *Aug 2026* | ESP32, ESP-IDF, Edge AI, IMU |
+| [**Priority Arbiter for Multi-Channel Bus**](https://github.com/rohit29d) | *Dec 2024 – Mar 2025* | VHDL, Basys-3 FPGA, Vivado RTL |
 
 ---
 
 ## Certifications
 
-- [System Verilog Fundamentals](https://www.udemy.com/certificate/UC-25b24238-b221-426a-874c-8f043a3646df/)
+- [SystemVerilog Fundamentals](https://www.udemy.com/certificate/UC-25b24238-b221-426a-874c-8f043a3646df/)
 - [Python Programming – Basic to Advanced](https://login.webveda.com/share-certificate?serialno=EVGAK9SP)
 - [Embedded Systems Design - Digital Circuits](https://www.diginique.com/wp-content/uploads/DT23060337.png)
 
@@ -55,9 +70,8 @@ Tools & Technologies:
 
 ## Connect With Me
 
-- Email: [rohitdubbaka29@gmail.com](mailto:rohitdubbaka29@gmail.com)
-- LinkedIn: [linkedin.com/in/rohit-kumar-dubbaka](https://www.linkedin.com/in/rohit-kumar-dubbaka)
-
+- **Email:** [rohitdubbaka29@gmail.com](mailto:rohitdubbaka29@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rohit-kumar-dubbaka](https://www.linkedin.com/in/rohit-kumar-dubbaka)
 ---
 
 <p align="center">
