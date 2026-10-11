@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Rohit</h1>
+<h1 align="center">Hello, I'm Rohit</h1>
 <h3 align="center">Embedded Systems | PCB Design | Hardware Electronics</h3>
 
 <p align="center">
@@ -16,8 +16,8 @@
 ### Who am I ?
 - My job calls me a **PCB designer, electronics hardware engineer, and the guy who runs the 3D-printer or Pick & Place machine**
 - My degree calls me an **electronics engineer**
-- My interests call me a maker ... or builder ... **an explorer**
-- My project mates used to call me **the leader of the pack**
+- My interests call me a maker, builder ... **an explorer**
+- My project mates used to call me **the lead**
 
 So yeah, I don't really subscribe to a single label ... but if I were to:
 
@@ -56,7 +56,7 @@ So yeah, I don't really subscribe to a single label ... but if I were to:
 | [**Hands-Free sEMG-Based Speech-Controlled Wheelchair**](https://github.com/rohit29d/Hands-Free-sEMG-based-speech-controlled-wheelchair-) | *Jun 2025 – Mar 2026* | STM32, Biosensors, TinyML, KiCad |
 | [**Analog Front-End for sEMG Signal Acquisition V2**](https://github.com/rohit29d/Analog-Front-End-for-sEMG-signals-Acquisition-V2) | *Aug 2025* | Custom AFE PCB, LTspice, High CMRR |
 | [**Aeromesh — Edge AI Turbulence Detection Mesh Network**](https://github.com/rohit29d/CraftifAI_Hackathon_Aeromesh) | *Aug 2026* | ESP32, ESP-IDF, Edge AI, IMU |
-| [**Priority Arbiter for Multi-Channel Bus**](https://github.com/rohit29d) | *Dec 2024 – Mar 2025* | VHDL, Basys-3 FPGA, Vivado RTL |
+| [**Priority Arbiter for Multi-Channel Bus**] | *Dec 2024 – Mar 2025* | VHDL, Basys-3 FPGA, Vivado RTL |
 
 ---
 
