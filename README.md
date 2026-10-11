@@ -60,11 +60,11 @@ So yeah, I don't really subscribe to a single label ... but if I were to:
 
 ---
 
-## Certifications
+## A few core certifications
 
-- [SystemVerilog Fundamentals](https://www.udemy.com/certificate/UC-25b24238-b221-426a-874c-8f043a3646df/)
-- [Python Programming – Basic to Advanced](https://login.webveda.com/share-certificate?serialno=EVGAK9SP)
-- [Embedded Systems Design - Digital Circuits](https://www.diginique.com/wp-content/uploads/DT23060337.png)
+- [**PCB Design with KiCad (Updated for KiCad 9)**](https://www.udemy.com/certificate/UC-0fc10863-10c9-44f7-9250-5c2836f6288a/) — *Udemy (Dr. Peter Dalmaris, 32 hrs)* • **Aug 2026**
+- **Machine Learning Techniques in MATLAB** — *MathWorks Training Services (Classification, Regression, Clustering)* • **Jun 2025**
+- [**SystemVerilog Fundamentals (Verification Series)**](https://www.udemy.com/certificate/UC-25b24238-b221-426a-874c-8f043a3646df/) — *Udemy (Kumar Khandagle, 14.5 hrs)* • **Dec 2024**
 
 ---
 
